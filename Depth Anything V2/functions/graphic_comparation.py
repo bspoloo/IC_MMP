@@ -9,6 +9,7 @@ def graphic_comparation(raw_img, depth):
     plt.axis("off")
 
     plt.subplot(1,2,2)
+    # plt.imshow(depth, cmap='gray')
     plt.imshow(depth, cmap='gray')
     plt.title("Mapa de profundidad")
     plt.axis("off")
