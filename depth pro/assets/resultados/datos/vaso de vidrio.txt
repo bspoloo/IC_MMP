@@ -1,0 +1,3 @@
+Imagen Analizada: vaso de vidrio.jpeg
+Focal Length (f_px) usada/estimada: 1168.536499
+Rango de profundidad estimado: Min 0.2177m, Max 1.0985m

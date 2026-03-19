@@ -1,0 +1,3 @@
+Imagen Analizada: mando de ps4.jpeg
+Focal Length (f_px) usada/estimada: 1461.960571
+Rango de profundidad estimado: Min 0.3715m, Max 1.5312m

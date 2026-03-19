@@ -1,0 +1,3 @@
+Imagen Analizada: papel higienico.jpeg
+Focal Length (f_px) usada/estimada: 1218.161865
+Rango de profundidad estimado: Min 0.2125m, Max 0.8623m
