@@ -1,0 +1,3 @@
+Imagen Analizada: lata de espuma.jpeg
+Focal Length (f_px) usada/estimada: 1147.416138
+Rango de profundidad estimado: Min 0.2001m, Max 0.9176m

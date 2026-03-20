@@ -1,0 +1,3 @@
+Imagen Analizada: manzana amarilla.jpeg
+Focal Length (f_px) usada/estimada: 1466.728394
+Rango de profundidad estimado: Min 0.2980m, Max 1.6612m
